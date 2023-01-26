@@ -1,5 +1,5 @@
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+
+
 
 <div align="center" markdown="1">
 
@@ -8,11 +8,13 @@
 [![Build Status](https://github.com/saritragmbh/forex.js/actions/workflows/ci.yml/badge.svg)](https://github.com/saritragmbh/forex.js/actions/workflows/ci.yml)
 [![Coverage Status](https://coveralls.io/repos/saritragmbh/currency.js/badge.svg?branch=master&service=github)](https://coveralls.io/github/saritragmbh/forex.js?branch=master)
 [![npm](https://img.shields.io/npm/v/forex.svg?style=flat)](https://www.npmjs.com/package/forex)
+![Uptime](https://img.shields.io/badge/uptime-100%25-22c55e)
+![Issues](https://img.shields.io/badge/issues-0-22c55e)
 
 </div>
 
-# forex-js
-Swiss Army knife for everything currency and number related. Converting, formatting and manipulating has never been easier. Official JS wraper of domain.com.
+# **Forex.js**
+*Forex.js* is the Swiss Army knife for everything currency and number related. Converting, formatting and manipulating has never been easier. Official JS wraper of domain.com.
 
 
 
@@ -23,7 +25,7 @@ Swiss Army knife for everything currency and number related. Converting, formatt
 * Flexible formatting options
 * Handles *any* type of currency input, strings, numbers, or another currency instance
 * **Free daily exchange rates without account**
-* Cache exchange rates
+* Exchange rates cache 
 
 Exchange Rates are offered by domain.com. While daily rates are free to use without account hourly rates required a free account. Historical rates and more frequent exchange rate updates will require a paid subscription.
 
