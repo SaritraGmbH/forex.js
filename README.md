@@ -2,12 +2,16 @@
 
 ![currency.js logo](https://user-images.githubusercontent.com/1062039/31397824-9dfa15f0-adac-11e7-9869-fb20746e90c1.png)
 
-# forex-js
-Swiss Army knife for everything currency and number related. Converting, formatting and manipulating has never been easier. Official JS wraper of domain.com.
-
 [![Build Status](https://github.com/saritragmbh/forex.js/actions/workflows/ci.yml/badge.svg)](https://github.com/saritragmbh/forex.js/actions/workflows/ci.yml)
 [![Coverage Status](https://coveralls.io/repos/saritragmbh/currency.js/badge.svg?branch=master&service=github)](https://coveralls.io/github/saritragmbh/forex.js?branch=master)
 [![npm](https://img.shields.io/npm/v/forex.svg?style=flat)](https://www.npmjs.com/package/forex)
+
+</div>
+
+# forex-js
+Swiss Army knife for everything currency and number related. Converting, formatting and manipulating has never been easier. Official JS wraper of domain.com.
+
+
 
 ### Features
 
