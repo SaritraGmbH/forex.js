@@ -1,0 +1,19 @@
+{
+  "name": "forex",
+  "version": "1.0.0",
+  "description": "Swiss Army knife for everything currency and number related. Converting, formatting and manipulating has never been easier. Official JS wraper of domain.com.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaritraGmbH/forex-js.git"
+  },
+  "author": "Saritra GmbH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SaritraGmbH/forex-js/issues"
+  },
+  "homepage": "https://github.com/SaritraGmbH/forex-js#readme"
+}
