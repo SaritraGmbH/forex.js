@@ -46,23 +46,16 @@ yarn add forex
 
 ## Contributing
 
-** Important: Please create your branch from and submit pull requests to the `development` branch.  All pull requests must include the appropriate tests.**
+**Important: Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.**
 
-1. Fork the library
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again!
 
-2. [Install grunt](http://gruntjs.com/getting-started#installing-the-cli)
-
-3. Run `npm install` to install dependencies
-
-4. Create a new branch from `develop`
-
-5. Add your tests to the files in `/tests`
-
-6. To test your tests, run `grunt`
-
-7. When all your tests are passing, run `grunt dist` to compile and minify all files
-
-8. Submit a pull request to the `develop` branch.
+1. Fork the Project
+2. Create your Feature Branch (git checkout -b feature/AmazingFeature)
+    
+3. Commit your Changes (git commit -m 'Add some AmazingFeature')
+4. Push to the Branch (git push origin feature/AmazingFeature)
+5. Open a Pull Request
 
 
 ## Changelog
