@@ -1,5 +1,61 @@
+<div align="center" markdown="1">
+
+![currency.js logo](https://user-images.githubusercontent.com/1062039/31397824-9dfa15f0-adac-11e7-9869-fb20746e90c1.png)
+
 # forex-js
 Swiss Army knife for everything currency and number related. Converting, formatting and manipulating has never been easier. Official JS wraper of domain.com.
+
+[![Build Status](https://github.com/saritragmbh/forex.js/actions/workflows/ci.yml/badge.svg)](https://github.com/saritragmbh/forex.js/actions/workflows/ci.yml)
+[![Coverage Status](https://coveralls.io/repos/saritragmbh/currency.js/badge.svg?branch=master&service=github)](https://coveralls.io/github/saritragmbh/forex.js?branch=master)
+[![npm](https://img.shields.io/npm/v/forex.svg?style=flat)](https://www.npmjs.com/package/forex)
+
+### Features
+
+* *0 dependencies!*
+* Immutable
+* Flexible formatting options
+* Handles *any* type of currency input, strings, numbers, or another currency instance
+* Free daily exchange rates (offered by domain.com)
+* Cache exchange rates
+
+### Installation
+
+```sh
+npm install --save forex
+```
+
+With [yarn](https://yarnpkg.com):
+
+```sh
+yarn add forex
+```
+
+# Contributing
+
+#### Important: Please create your branch from and submit pull requests to the `develop` branch.  All pull requests must include the appropriate tests.
+
+1. Fork the library
+
+2. [Install grunt](http://gruntjs.com/getting-started#installing-the-cli)
+
+3. Run `npm install` to install dependencies
+
+4. Create a new branch from `develop`
+
+5. Add your tests to the files in `/tests`
+
+6. To test your tests, run `grunt`
+
+7. When all your tests are passing, run `grunt dist` to compile and minify all files
+
+8. Submit a pull request to the `develop` branch.
+
+
+# Changelog
+
+### 1.0.0
+
+Initial release
 
 
 # Acknowlegements
