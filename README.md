@@ -34,7 +34,7 @@ With [yarn](https://yarnpkg.com):
 yarn add forex
 ```
 
-# Contributing
+### Contributing
 
 #### Important: Please create your branch from and submit pull requests to the `develop` branch.  All pull requests must include the appropriate tests.
 
@@ -55,18 +55,18 @@ yarn add forex
 8. Submit a pull request to the `develop` branch.
 
 
-# Changelog
+#### Changelog
 
-### 1.0.0
+#### 1.0.0
 
 Initial release
 
 
-# Acknowlegements
+### Acknowlegements
 
 Forex.js, was inspired by and heavily borrowed from [Numeral.js](https://github.com/adamwdraper/Numeral-js), [Accounting.js](http://openexchangerates.github.io/accounting.js/), [Dinero.js](https://github.com/dinerojs/dinero.js), [Currency.js](https://github.com/scurker/currency.js) and [Accounting.js](https://github.com/scurker/currency.js)
 
-# License
+### License
 
 Forex.js is freely distributable under the terms of the MIT license.
 
