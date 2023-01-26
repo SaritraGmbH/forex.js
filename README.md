@@ -1,3 +1,6 @@
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+
 <div align="center" markdown="1">
 
 <img alt="forexjs-logo" src="https://user-images.githubusercontent.com/6472013/214856738-ca602673-14dc-4c53-9a2d-77767c17e325.png" width="30%">
@@ -13,30 +16,35 @@ Swiss Army knife for everything currency and number related. Converting, formatt
 
 
 
-### Features
+## Features
 
 * *0 dependencies!*
 * Immutable
 * Flexible formatting options
 * Handles *any* type of currency input, strings, numbers, or another currency instance
-* Free daily exchange rates (offered by domain.com)
+* **Free daily exchange rates without account**
 * Cache exchange rates
 
-### Installation
+Exchange Rates are offered by domain.com. While daily rates are free to use without account hourly rates required a free account. Historical rates and more frequent exchange rate updates will require a paid subscription.
 
+For production workloads we recommend one of our SLA offerings.
+
+## Installation
+
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ```sh
 npm install --save forex
 ```
 
-With [yarn](https://yarnpkg.com):
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
 ```sh
 yarn add forex
 ```
 
-### Contributing
+## Contributing
 
-#### Important: Please create your branch from and submit pull requests to the `develop` branch.  All pull requests must include the appropriate tests.
+** Important: Please create your branch from and submit pull requests to the `development` branch.  All pull requests must include the appropriate tests.**
 
 1. Fork the library
 
@@ -55,18 +63,18 @@ yarn add forex
 8. Submit a pull request to the `develop` branch.
 
 
-#### Changelog
+## Changelog
 
 #### 1.0.0
 
 Initial release
 
 
-### Acknowlegements
+## Acknowlegements
 
 Forex.js, was inspired by and heavily borrowed from [Numeral.js](https://github.com/adamwdraper/Numeral-js), [Accounting.js](http://openexchangerates.github.io/accounting.js/), [Dinero.js](https://github.com/dinerojs/dinero.js), [Currency.js](https://github.com/scurker/currency.js) and [Accounting.js](https://github.com/scurker/currency.js)
 
-### License
+## License
 
 Forex.js is freely distributable under the terms of the MIT license.
 
