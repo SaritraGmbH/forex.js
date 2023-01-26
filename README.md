@@ -1,6 +1,6 @@
 <div align="center" markdown="1">
 
-![currency.js logo](https://user-images.githubusercontent.com/1062039/31397824-9dfa15f0-adac-11e7-9869-fb20746e90c1.png)
+<img alt="forexjs-logo" src="https://user-images.githubusercontent.com/6472013/214856738-ca602673-14dc-4c53-9a2d-77767c17e325.png" width="30%">
 
 [![Build Status](https://github.com/saritragmbh/forex.js/actions/workflows/ci.yml/badge.svg)](https://github.com/saritragmbh/forex.js/actions/workflows/ci.yml)
 [![Coverage Status](https://coveralls.io/repos/saritragmbh/currency.js/badge.svg?branch=master&service=github)](https://coveralls.io/github/saritragmbh/forex.js?branch=master)
